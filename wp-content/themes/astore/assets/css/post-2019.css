@@ -1,0 +1,1305 @@
+.elementor-2019 .elementor-element.elementor-element-cf25de6 > .elementor-container {
+    max-width: 1170px;
+    min-height: 400px;
+}
+
+.elementor-2019 .elementor-element.elementor-element-cf25de6 > .elementor-container:after {
+    content: "";
+    min-height: inherit;
+}
+
+.elementor-2019 .elementor-element.elementor-element-cf25de6 {
+    background-image: url("/wp-content/uploads/about.png");
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+}
+
+.elementor-2019 .elementor-element.elementor-element-cf25de6 > .elementor-background-overlay {
+    background-color: rgba(0,0,0,0.77);
+    opacity: 0.5;
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-2019 .elementor-element.elementor-element-bfe4a13 {
+    text-align: center;
+}
+
+.elementor-2019 .elementor-element.elementor-element-bfe4a13.elementor-widget-heading .elementor-heading-title {
+    color: #ffffff;
+}
+
+.elementor-2019 .elementor-element.elementor-element-bfe4a13 .elementor-heading-title {
+    font-family: "Helvetica", Sans-serif;
+    font-size: 50px;
+    font-weight: bold;
+    text-transform: none;
+    line-height: 42px;
+    letter-spacing: 0.3px;
+    text-shadow: 0px 0px 10px rgba(0,0,0,0.3);
+}
+
+.elementor-2019 .elementor-element.elementor-element-57577ca {
+    text-align: center;
+}
+
+.elementor-2019 .elementor-element.elementor-element-57577ca.elementor-widget-heading .elementor-heading-title {
+    color: #ffffff;
+}
+
+.elementor-2019 .elementor-element.elementor-element-57577ca .elementor-heading-title {
+    font-family: "Helvetica", Sans-serif;
+    font-size: 18px;
+    line-height: 30px;
+    text-shadow: 0px 0px 10px rgba(0,0,0,0.3);
+}
+
+.elementor-2019 .elementor-element.elementor-element-f68271a .elementor-spacer-inner {
+    height: 50px;
+}
+
+.elementor-2019 .elementor-element.elementor-element-9156604 {
+    text-align: center;
+}
+
+.elementor-2019 .elementor-element.elementor-element-9156604.elementor-widget-heading .elementor-heading-title {
+    color: #000000;
+}
+
+.elementor-2019 .elementor-element.elementor-element-9156604 .elementor-heading-title {
+    font-family: "Helvetica", Sans-serif;
+    font-size: 30px;
+}
+
+.elementor-2019 .elementor-element.elementor-element-8dfdba8 {
+    text-align: center;
+}
+
+.elementor-2019 .elementor-element.elementor-element-8dfdba8.elementor-widget-heading .elementor-heading-title {
+    color: rgba(82,84,94,0.81);
+}
+
+.elementor-2019 .elementor-element.elementor-element-8dfdba8 .elementor-heading-title {
+    font-family: "Helvetica", Sans-serif;
+    font-size: 18px;
+}
+
+.elementor-2019 .elementor-element.elementor-element-8dfdba8 > .elementor-widget-container {
+    margin: 0px 0px 0px 0px;
+}
+
+.elementor-2019 .elementor-element.elementor-element-f5e009b {
+    margin-top: 14px;
+    margin-bottom: 0px;
+}
+
+.elementor-2019 .elementor-element.elementor-element-66d9145 > .elementor-element-populated {
+    margin: 0px 20px 0px 0px;
+}
+
+.elementor-2019 .elementor-element.elementor-element-f4d3efb .elementor-text-editor {
+    text-align: left;
+}
+
+.elementor-2019 .elementor-element.elementor-element-f4d3efb {
+    color: #54595f;
+    font-family: "Helvetica", Sans-serif;
+}
+
+.elementor-2019 .elementor-element.elementor-element-e5d5ab1 .elementor-text-editor {
+    text-align: left;
+}
+
+.elementor-2019 .elementor-element.elementor-element-e5d5ab1 {
+    color: #54595f;
+    font-family: "Helvetica", Sans-serif;
+}
+
+.elementor-2019 .elementor-element.elementor-element-ae3eaf7 .elementor-spacer-inner {
+    height: 50px;
+}
+
+.elementor-2019 .elementor-element.elementor-element-7a93200 > .elementor-element-populated {
+    margin: 0px 0px 0px 20px;
+}
+
+.elementor-2019 .elementor-element.elementor-element-79acf1e .elementor-progress-wrapper .elementor-progress-bar {
+    background-color: #000000;
+}
+
+.elementor-2019 .elementor-element.elementor-element-79acf1e .elementor-progress-bar {
+    color: #ffffff;
+}
+
+.elementor-2019 .elementor-element.elementor-element-79acf1e .elementor-title {
+    color: #54595f;
+    font-family: "Helvetica", Sans-serif;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.elementor-2019 .elementor-element.elementor-element-1cf212f .elementor-progress-wrapper .elementor-progress-bar {
+    background-color: #000000;
+}
+
+.elementor-2019 .elementor-element.elementor-element-1cf212f .elementor-progress-bar {
+    color: #ffffff;
+}
+
+.elementor-2019 .elementor-element.elementor-element-1cf212f .elementor-title {
+    color: #54595f;
+    font-family: "Helvetica", Sans-serif;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.elementor-2019 .elementor-element.elementor-element-0da1ead .elementor-progress-wrapper .elementor-progress-bar {
+    background-color: #000000;
+}
+
+.elementor-2019 .elementor-element.elementor-element-0da1ead .elementor-progress-bar {
+    color: #ffffff;
+}
+
+.elementor-2019 .elementor-element.elementor-element-0da1ead .elementor-title {
+    color: #54595f;
+    font-family: "Helvetica", Sans-serif;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.elementor-2019 .elementor-element.elementor-element-456cee7 {
+    background-color: #e0e2e3;
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+}
+
+.elementor-2019 .elementor-element.elementor-element-456cee7 > .elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-2019 .elementor-element.elementor-element-1802373 > .elementor-element-populated {
+    background-color: #e0e2e3;
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+}
+
+.elementor-2019 .elementor-element.elementor-element-1802373 > .elementor-element-populated > .elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-2019 .elementor-element.elementor-element-bf657f7 .elementor-spacer-inner {
+    height: 50px;
+}
+
+.elementor-2019 .elementor-element.elementor-element-cdf10dc {
+    text-align: center;
+}
+
+.elementor-2019 .elementor-element.elementor-element-cdf10dc.elementor-widget-heading .elementor-heading-title {
+    color: #000000;
+}
+
+.elementor-2019 .elementor-element.elementor-element-cdf10dc .elementor-heading-title {
+    font-family: "Helvetica", Sans-serif;
+    font-size: 30px;
+}
+
+.elementor-2019 .elementor-element.elementor-element-0a1c73d {
+    text-align: center;
+}
+
+.elementor-2019 .elementor-element.elementor-element-0a1c73d.elementor-widget-heading .elementor-heading-title {
+    color: rgba(84,89,95,0.78);
+}
+
+.elementor-2019 .elementor-element.elementor-element-0a1c73d .elementor-heading-title {
+    font-family: "Helvetica", Sans-serif;
+    font-size: 18px;
+}
+
+.elementor-2019 .elementor-element.elementor-element-bfc96d2 > .elementor-container {
+    max-width: 1563px;
+}
+
+.elementor-2019 .elementor-element.elementor-element-bfc96d2 {
+    background-color: #e0e2e3;
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+}
+
+.elementor-2019 .elementor-element.elementor-element-bfc96d2 > .elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-2019 .elementor-element.elementor-element-e836ced > .elementor-element-populated {
+    background-color: #ffffff;
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    margin: 30px 20px 30px 20px;
+}
+
+.elementor-2019 .elementor-element.elementor-element-e836ced > .elementor-element-populated > .elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-2019 .elementor-element.elementor-element-c198291.elementor-view-stacked .elementor-icon {
+    background-color: #494949;
+}
+
+.elementor-2019 .elementor-element.elementor-element-c198291.elementor-view-framed .elementor-icon, .elementor-2019 .elementor-element.elementor-element-c198291.elementor-view-default .elementor-icon {
+    color: #494949;
+    border-color: #494949;
+}
+
+.elementor-2019 .elementor-element.elementor-element-c198291.elementor-position-right .elementor-icon-box-icon {
+    margin-left: 0px;
+}
+
+.elementor-2019 .elementor-element.elementor-element-c198291.elementor-position-left .elementor-icon-box-icon {
+    margin-right: 0px;
+}
+
+.elementor-2019 .elementor-element.elementor-element-c198291.elementor-position-top .elementor-icon-box-icon {
+    margin-bottom: 0px;
+}
+
+.elementor-2019 .elementor-element.elementor-element-c198291 .elementor-icon {
+    font-size: 38px;
+}
+
+.elementor-2019 .elementor-element.elementor-element-c198291 .elementor-icon i {
+    transform: rotate(0deg);
+}
+
+.elementor-2019 .elementor-element.elementor-element-c198291 .elementor-icon-box-title {
+    margin-bottom: 13px;
+}
+
+.elementor-2019 .elementor-element.elementor-element-c198291 .elementor-icon-box-content .elementor-icon-box-title {
+    color: #000000;
+    font-family: "Helvetica", Sans-serif;
+    font-size: 18px;
+}
+
+.elementor-2019 .elementor-element.elementor-element-c198291 > .elementor-widget-container {
+    margin: 20px 20px 20px 20px;
+    padding: 0px 0px 0px 0px;
+    background-color: #ffffff;
+    border-radius: 0px 0px 0px 0px;
+}
+
+.elementor-2019 .elementor-element.elementor-element-0834618 > .elementor-element-populated {
+    background-color: #ffffff;
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    margin: 30px 20px 30px 20px;
+}
+
+.elementor-2019 .elementor-element.elementor-element-0834618 > .elementor-element-populated > .elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-2019 .elementor-element.elementor-element-ed5b336.elementor-view-stacked .elementor-icon {
+    background-color: #54595f;
+}
+
+.elementor-2019 .elementor-element.elementor-element-ed5b336.elementor-view-framed .elementor-icon, .elementor-2019 .elementor-element.elementor-element-ed5b336.elementor-view-default .elementor-icon {
+    color: #54595f;
+    border-color: #54595f;
+}
+
+.elementor-2019 .elementor-element.elementor-element-ed5b336.elementor-position-right .elementor-icon-box-icon {
+    margin-left: 0px;
+}
+
+.elementor-2019 .elementor-element.elementor-element-ed5b336.elementor-position-left .elementor-icon-box-icon {
+    margin-right: 0px;
+}
+
+.elementor-2019 .elementor-element.elementor-element-ed5b336.elementor-position-top .elementor-icon-box-icon {
+    margin-bottom: 0px;
+}
+
+.elementor-2019 .elementor-element.elementor-element-ed5b336 .elementor-icon {
+    font-size: 38px;
+}
+
+.elementor-2019 .elementor-element.elementor-element-ed5b336 .elementor-icon i {
+    transform: rotate(0deg);
+}
+
+.elementor-2019 .elementor-element.elementor-element-ed5b336 .elementor-icon-box-title {
+    margin-bottom: 13px;
+}
+
+.elementor-2019 .elementor-element.elementor-element-ed5b336 .elementor-icon-box-content .elementor-icon-box-title {
+    color: #000000;
+    font-family: "Helvetica", Sans-serif;
+    font-size: 18px;
+}
+
+.elementor-2019 .elementor-element.elementor-element-ed5b336 > .elementor-widget-container {
+    margin: 20px 20px 20px 20px;
+    padding: 0px 0px 0px 0px;
+    background-color: #ffffff;
+    border-radius: 0px 0px 0px 0px;
+}
+
+.elementor-2019 .elementor-element.elementor-element-cfc3bc2 > .elementor-element-populated {
+    background-color: #ffffff;
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    margin: 30px 20px 30px 20px;
+}
+
+.elementor-2019 .elementor-element.elementor-element-cfc3bc2 > .elementor-element-populated > .elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-2019 .elementor-element.elementor-element-818dbb1.elementor-view-stacked .elementor-icon {
+    background-color: #494949;
+}
+
+.elementor-2019 .elementor-element.elementor-element-818dbb1.elementor-view-framed .elementor-icon, .elementor-2019 .elementor-element.elementor-element-818dbb1.elementor-view-default .elementor-icon {
+    color: #494949;
+    border-color: #494949;
+}
+
+.elementor-2019 .elementor-element.elementor-element-818dbb1.elementor-position-right .elementor-icon-box-icon {
+    margin-left: 0px;
+}
+
+.elementor-2019 .elementor-element.elementor-element-818dbb1.elementor-position-left .elementor-icon-box-icon {
+    margin-right: 0px;
+}
+
+.elementor-2019 .elementor-element.elementor-element-818dbb1.elementor-position-top .elementor-icon-box-icon {
+    margin-bottom: 0px;
+}
+
+.elementor-2019 .elementor-element.elementor-element-818dbb1 .elementor-icon {
+    font-size: 38px;
+}
+
+.elementor-2019 .elementor-element.elementor-element-818dbb1 .elementor-icon i {
+    transform: rotate(0deg);
+}
+
+.elementor-2019 .elementor-element.elementor-element-818dbb1 .elementor-icon-box-title {
+    margin-bottom: 13px;
+}
+
+.elementor-2019 .elementor-element.elementor-element-818dbb1 .elementor-icon-box-content .elementor-icon-box-title {
+    color: #000000;
+    font-family: "Helvetica", Sans-serif;
+    font-size: 18px;
+}
+
+.elementor-2019 .elementor-element.elementor-element-818dbb1 > .elementor-widget-container {
+    margin: 20px 20px 20px 20px;
+    padding: 0px 0px 0px 0px;
+    background-color: #ffffff;
+    border-radius: 0px 0px 0px 0px;
+}
+
+.elementor-2019 .elementor-element.elementor-element-41b9e6e > .elementor-element-populated {
+    background-color: #ffffff;
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    margin: 30px 20px 30px 20px;
+}
+
+.elementor-2019 .elementor-element.elementor-element-41b9e6e > .elementor-element-populated > .elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-2019 .elementor-element.elementor-element-37dd3d1.elementor-view-stacked .elementor-icon {
+    background-color: #494949;
+}
+
+.elementor-2019 .elementor-element.elementor-element-37dd3d1.elementor-view-framed .elementor-icon, .elementor-2019 .elementor-element.elementor-element-37dd3d1.elementor-view-default .elementor-icon {
+    color: #494949;
+    border-color: #494949;
+}
+
+.elementor-2019 .elementor-element.elementor-element-37dd3d1.elementor-position-right .elementor-icon-box-icon {
+    margin-left: 0px;
+}
+
+.elementor-2019 .elementor-element.elementor-element-37dd3d1.elementor-position-left .elementor-icon-box-icon {
+    margin-right: 0px;
+}
+
+.elementor-2019 .elementor-element.elementor-element-37dd3d1.elementor-position-top .elementor-icon-box-icon {
+    margin-bottom: 0px;
+}
+
+.elementor-2019 .elementor-element.elementor-element-37dd3d1 .elementor-icon {
+    font-size: 38px;
+}
+
+.elementor-2019 .elementor-element.elementor-element-37dd3d1 .elementor-icon i {
+    transform: rotate(0deg);
+}
+
+.elementor-2019 .elementor-element.elementor-element-37dd3d1 .elementor-icon-box-title {
+    margin-bottom: 13px;
+}
+
+.elementor-2019 .elementor-element.elementor-element-37dd3d1 .elementor-icon-box-content .elementor-icon-box-title {
+    color: #000000;
+    font-family: "Helvetica", Sans-serif;
+    font-size: 18px;
+}
+
+.elementor-2019 .elementor-element.elementor-element-37dd3d1 > .elementor-widget-container {
+    margin: 20px 20px 20px 20px;
+    padding: 0px 0px 0px 0px;
+    background-color: #ffffff;
+    border-radius: 0px 0px 0px 0px;
+}
+
+.elementor-2019 .elementor-element.elementor-element-50f83aa {
+    background-color: #e0e2e3;
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+}
+
+.elementor-2019 .elementor-element.elementor-element-50f83aa > .elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-2019 .elementor-element.elementor-element-b234847 .elementor-spacer-inner {
+    height: 50px;
+}
+
+.elementor-2019 .elementor-element.elementor-element-c360b89 .elementor-spacer-inner {
+    height: 50px;
+}
+
+.elementor-2019 .elementor-element.elementor-element-3d6e8e7 {
+    text-align: center;
+}
+
+.elementor-2019 .elementor-element.elementor-element-3d6e8e7.elementor-widget-heading .elementor-heading-title {
+    color: #000000;
+}
+
+.elementor-2019 .elementor-element.elementor-element-3d6e8e7 .elementor-heading-title {
+    font-family: "Helvetica", Sans-serif;
+    font-size: 30px;
+}
+
+.elementor-2019 .elementor-element.elementor-element-8c41952 {
+    text-align: center;
+}
+
+.elementor-2019 .elementor-element.elementor-element-8c41952.elementor-widget-heading .elementor-heading-title {
+    color: rgba(84,89,95,0.83);
+}
+
+.elementor-2019 .elementor-element.elementor-element-8c41952 .elementor-heading-title {
+    font-family: "Helvetica", Sans-serif;
+    font-size: 18px;
+}
+
+.elementor-2019 .elementor-element.elementor-element-4b45ddb > .elementor-element-populated {
+    background-color: #f2f2f2;
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    margin: 20px 20px 20px 20px;
+}
+
+.elementor-2019 .elementor-element.elementor-element-4b45ddb > .elementor-element-populated > .elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-2019 .elementor-element.elementor-element-90a1fb5 .elementor-testimonial-content {
+    color: #54595f;
+    font-family: "Helvetica", Sans-serif;
+    font-size: 14px;
+}
+
+.elementor-2019 .elementor-element.elementor-element-90a1fb5 .elementor-testimonial-name {
+    color: #000000;
+    font-family: "Helvetica", Sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.elementor-2019 .elementor-element.elementor-element-90a1fb5 .elementor-testimonial-job {
+    color: #5e5e5e;
+    font-family: "Helvetica", Sans-serif;
+    font-size: 16px;
+}
+
+.elementor-2019 .elementor-element.elementor-element-90a1fb5 > .elementor-widget-container {
+    margin: 20px 20px 20px 20px;
+    background-color: rgba(35,44,66,0);
+}
+
+.elementor-2019 .elementor-element.elementor-element-18e6693 > .elementor-element-populated {
+    background-color: #f2f2f2;
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    margin: 20px 20px 20px 20px;
+}
+
+.elementor-2019 .elementor-element.elementor-element-18e6693 > .elementor-element-populated > .elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-2019 .elementor-element.elementor-element-fc0d8ba .elementor-testimonial-content {
+    color: #54595f;
+    font-family: "Helvetica", Sans-serif;
+    font-size: 14px;
+}
+
+.elementor-2019 .elementor-element.elementor-element-fc0d8ba .elementor-testimonial-name {
+    color: #000000;
+    font-family: "Helvetica", Sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.elementor-2019 .elementor-element.elementor-element-fc0d8ba .elementor-testimonial-job {
+    color: #5e5e5e;
+    font-family: "Helvetica", Sans-serif;
+    font-size: 16px;
+}
+
+.elementor-2019 .elementor-element.elementor-element-fc0d8ba > .elementor-widget-container {
+    margin: 20px 20px 20px 20px;
+}
+
+.elementor-2019 .elementor-element.elementor-element-31384c4 {
+    background-color: #ffffff;
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+}
+
+.elementor-2019 .elementor-element.elementor-element-31384c4 > .elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-2019 .elementor-element.elementor-element-ae6022e .elementor-spacer-inner {
+    height: 50px;
+}
+
+.elementor-2019 .elementor-element.elementor-element-e3af539 {
+    background-color: #f9f9f9;
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+}
+
+.elementor-2019 .elementor-element.elementor-element-e3af539 > .elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-2019 .elementor-element.elementor-element-b9218fb .elementor-counter-number-wrapper {
+    color: #54595f;
+    font-family: "Helvetica", Sans-serif;
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.elementor-2019 .elementor-element.elementor-element-b9218fb .elementor-counter-title {
+    color: #54595f;
+    font-family: "Helvetica", Sans-serif;
+    font-size: 18px;
+    letter-spacing: -0.6px;
+}
+
+.elementor-2019 .elementor-element.elementor-element-b9218fb > .elementor-widget-container {
+    margin: 30px 20px 30px 20px;
+}
+
+.elementor-2019 .elementor-element.elementor-element-061da18 .elementor-counter-number-wrapper {
+    color: #54595f;
+    font-family: "Helvetica", Sans-serif;
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.elementor-2019 .elementor-element.elementor-element-061da18 .elementor-counter-title {
+    color: #54595f;
+    font-family: "Helvetica", Sans-serif;
+    font-size: 18px;
+    letter-spacing: -0.6px;
+}
+
+.elementor-2019 .elementor-element.elementor-element-061da18 > .elementor-widget-container {
+    margin: 30px 20px 30px 20px;
+}
+
+.elementor-2019 .elementor-element.elementor-element-4c39c59 .elementor-counter-number-wrapper {
+    color: #54595f;
+    font-family: "Helvetica", Sans-serif;
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.elementor-2019 .elementor-element.elementor-element-4c39c59 .elementor-counter-title {
+    font-family: "Helvetica", Sans-serif;
+    font-size: 18px;
+    letter-spacing: -0.6px;
+}
+
+.elementor-2019 .elementor-element.elementor-element-4c39c59 > .elementor-widget-container {
+    margin: 30px 20px 30px 20px;
+}
+
+.elementor-2019 .elementor-element.elementor-element-05b3045 .elementor-counter-number-wrapper {
+    color: #54595f;
+    font-family: "Helvetica", Sans-serif;
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.elementor-2019 .elementor-element.elementor-element-05b3045 .elementor-counter-title {
+    color: #54595f;
+    font-family: "Helvetica", Sans-serif;
+    font-size: 16px;
+    letter-spacing: -0.6px;
+}
+
+.elementor-2019 .elementor-element.elementor-element-05b3045 > .elementor-widget-container {
+    margin: 30px 20px 30px 20px;
+}
+
+.elementor-2019 .elementor-element.elementor-element-0141621 .elementor-spacer-inner {
+    height: 50px;
+}
+
+.elementor-2019 .elementor-element.elementor-element-cc4718d {
+    background-color: #f3f3f3;
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+}
+
+.elementor-2019 .elementor-element.elementor-element-cc4718d > .elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-2019 .elementor-element.elementor-element-f14385b .elementor-spacer-inner {
+    height: 50px;
+}
+
+.elementor-2019 .elementor-element.elementor-element-3e774cd {
+    text-align: center;
+}
+
+.elementor-2019 .elementor-element.elementor-element-3e774cd.elementor-widget-heading .elementor-heading-title {
+    color: #000000;
+}
+
+.elementor-2019 .elementor-element.elementor-element-3e774cd .elementor-heading-title {
+    font-family: "Helvetica", Sans-serif;
+    font-size: 30px;
+}
+
+.elementor-2019 .elementor-element.elementor-element-0a4e6e4 {
+    text-align: center;
+}
+
+.elementor-2019 .elementor-element.elementor-element-0a4e6e4.elementor-widget-heading .elementor-heading-title {
+    color: rgba(53,53,53,0.69);
+}
+
+.elementor-2019 .elementor-element.elementor-element-0a4e6e4 .elementor-heading-title {
+    font-family: "Helvetica", Sans-serif;
+    font-size: 18px;
+}
+
+.elementor-2019 .elementor-element.elementor-element-a2bb56f {
+    background-color: #f3f3f3;
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+}
+
+.elementor-2019 .elementor-element.elementor-element-a2bb56f > .elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-2019 .elementor-element.elementor-element-ba7c243 > .elementor-element-populated {
+    background-color: #ffffff;
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    margin: 30px 20px 30px 20px;
+}
+
+.elementor-2019 .elementor-element.elementor-element-ba7c243 > .elementor-element-populated > .elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-2019 .elementor-element.elementor-element-bf62db9.elementor-position-right .elementor-image-box-img {
+    margin-left: 0px;
+}
+
+.elementor-2019 .elementor-element.elementor-element-bf62db9.elementor-position-left .elementor-image-box-img {
+    margin-right: 0px;
+}
+
+.elementor-2019 .elementor-element.elementor-element-bf62db9.elementor-position-top .elementor-image-box-img {
+    margin-bottom: 0px;
+}
+
+.elementor-2019 .elementor-element.elementor-element-bf62db9 .elementor-image-box-wrapper .elementor-image-box-img {
+    width: 65%;
+}
+
+.elementor-2019 .elementor-element.elementor-element-bf62db9 .elementor-image-box-img img {
+    transition-duration: 0.3s;
+}
+
+.elementor-2019 .elementor-element.elementor-element-bf62db9 .elementor-image-box-title {
+    margin-bottom: 10px;
+}
+
+.elementor-2019 .elementor-element.elementor-element-bf62db9 .elementor-image-box-content .elementor-image-box-title {
+    color: #000000;
+    font-family: "Helvetica", Sans-serif;
+    font-size: 18px;
+}
+
+.elementor-2019 .elementor-element.elementor-element-bf62db9 .elementor-image-box-content .elementor-image-box-description {
+    color: #54595f;
+    font-family: "Helvetica", Sans-serif;
+    font-size: 14px;
+}
+
+.elementor-2019 .elementor-element.elementor-element-bf62db9 > .elementor-widget-container {
+    margin: 20px 20px 20px 20px;
+    background-color: #ffffff;
+}
+
+.elementor-2019 .elementor-element.elementor-element-f052a89 {
+    margin-top: -22px;
+    margin-bottom: 6px;
+}
+
+.elementor-2019 .elementor-element.elementor-element-350f853 .elementor-icon-wrapper {
+    text-align: center;
+}
+
+.elementor-2019 .elementor-element.elementor-element-350f853.elementor-view-stacked .elementor-icon {
+    background-color: #54595f;
+}
+
+.elementor-2019 .elementor-element.elementor-element-350f853.elementor-view-framed .elementor-icon, .elementor-2019 .elementor-element.elementor-element-350f853.elementor-view-default .elementor-icon {
+    color: #54595f;
+    border-color: #54595f;
+}
+
+.elementor-2019 .elementor-element.elementor-element-350f853 .elementor-icon {
+    font-size: 13px;
+    padding: 6px;
+}
+
+.elementor-2019 .elementor-element.elementor-element-350f853 .elementor-icon i {
+    transform: rotate(0deg);
+}
+
+.elementor-2019 .elementor-element.elementor-element-350f853 > .elementor-widget-container {
+    margin: 0px 0px 0px 56px;
+}
+
+.elementor-2019 .elementor-element.elementor-element-531b39e .elementor-icon-wrapper {
+    text-align: center;
+}
+
+.elementor-2019 .elementor-element.elementor-element-531b39e.elementor-view-stacked .elementor-icon {
+    background-color: #54595f;
+    color: #ffffff;
+}
+
+.elementor-2019 .elementor-element.elementor-element-531b39e.elementor-view-framed .elementor-icon, .elementor-2019 .elementor-element.elementor-element-531b39e.elementor-view-default .elementor-icon {
+    color: #54595f;
+    border-color: #54595f;
+}
+
+.elementor-2019 .elementor-element.elementor-element-531b39e.elementor-view-framed .elementor-icon {
+    background-color: #ffffff;
+}
+
+.elementor-2019 .elementor-element.elementor-element-531b39e .elementor-icon {
+    font-size: 13px;
+    padding: 6px;
+}
+
+.elementor-2019 .elementor-element.elementor-element-531b39e .elementor-icon i {
+    transform: rotate(0deg);
+}
+
+.elementor-2019 .elementor-element.elementor-element-37933bf .elementor-icon-wrapper {
+    text-align: center;
+}
+
+.elementor-2019 .elementor-element.elementor-element-37933bf.elementor-view-stacked .elementor-icon {
+    background-color: #54595f;
+}
+
+.elementor-2019 .elementor-element.elementor-element-37933bf.elementor-view-framed .elementor-icon, .elementor-2019 .elementor-element.elementor-element-37933bf.elementor-view-default .elementor-icon {
+    color: #54595f;
+    border-color: #54595f;
+}
+
+.elementor-2019 .elementor-element.elementor-element-37933bf .elementor-icon {
+    font-size: 13px;
+    padding: 6px;
+}
+
+.elementor-2019 .elementor-element.elementor-element-37933bf .elementor-icon i {
+    transform: rotate(0deg);
+}
+
+.elementor-2019 .elementor-element.elementor-element-37933bf > .elementor-widget-container {
+    margin: 0px 0px 0px -79px;
+}
+
+.elementor-2019 .elementor-element.elementor-element-7425dfa > .elementor-element-populated {
+    background-color: #ffffff;
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    margin: 30px 20px 30px 20px;
+}
+
+.elementor-2019 .elementor-element.elementor-element-7425dfa > .elementor-element-populated > .elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-2019 .elementor-element.elementor-element-cc8a2e1.elementor-position-right .elementor-image-box-img {
+    margin-left: 0px;
+}
+
+.elementor-2019 .elementor-element.elementor-element-cc8a2e1.elementor-position-left .elementor-image-box-img {
+    margin-right: 0px;
+}
+
+.elementor-2019 .elementor-element.elementor-element-cc8a2e1.elementor-position-top .elementor-image-box-img {
+    margin-bottom: 0px;
+}
+
+.elementor-2019 .elementor-element.elementor-element-cc8a2e1 .elementor-image-box-wrapper .elementor-image-box-img {
+    width: 65%;
+}
+
+.elementor-2019 .elementor-element.elementor-element-cc8a2e1 .elementor-image-box-img img {
+    transition-duration: 0.3s;
+}
+
+.elementor-2019 .elementor-element.elementor-element-cc8a2e1 .elementor-image-box-title {
+    margin-bottom: 10px;
+}
+
+.elementor-2019 .elementor-element.elementor-element-cc8a2e1 .elementor-image-box-content .elementor-image-box-title {
+    color: #000000;
+    font-family: "Helvetica", Sans-serif;
+    font-size: 18px;
+}
+
+.elementor-2019 .elementor-element.elementor-element-cc8a2e1 .elementor-image-box-content .elementor-image-box-description {
+    color: #54595f;
+    font-family: "Helvetica", Sans-serif;
+    font-size: 14px;
+}
+
+.elementor-2019 .elementor-element.elementor-element-cc8a2e1 > .elementor-widget-container {
+    margin: 20px 20px 20px 20px;
+    background-color: #ffffff;
+}
+
+.elementor-2019 .elementor-element.elementor-element-ea1b315 {
+    margin-top: -22px;
+    margin-bottom: 6px;
+}
+
+.elementor-2019 .elementor-element.elementor-element-8fb490c .elementor-icon-wrapper {
+    text-align: center;
+}
+
+.elementor-2019 .elementor-element.elementor-element-8fb490c.elementor-view-stacked .elementor-icon {
+    background-color: #54595f;
+}
+
+.elementor-2019 .elementor-element.elementor-element-8fb490c.elementor-view-framed .elementor-icon, .elementor-2019 .elementor-element.elementor-element-8fb490c.elementor-view-default .elementor-icon {
+    color: #54595f;
+    border-color: #54595f;
+}
+
+.elementor-2019 .elementor-element.elementor-element-8fb490c .elementor-icon {
+    font-size: 13px;
+    padding: 6px;
+}
+
+.elementor-2019 .elementor-element.elementor-element-8fb490c .elementor-icon i {
+    transform: rotate(0deg);
+}
+
+.elementor-2019 .elementor-element.elementor-element-8fb490c > .elementor-widget-container {
+    margin: 0px 0px 0px 56px;
+}
+
+.elementor-2019 .elementor-element.elementor-element-077a4de .elementor-icon-wrapper {
+    text-align: center;
+}
+
+.elementor-2019 .elementor-element.elementor-element-077a4de.elementor-view-stacked .elementor-icon {
+    background-color: #54595f;
+    color: #ffffff;
+}
+
+.elementor-2019 .elementor-element.elementor-element-077a4de.elementor-view-framed .elementor-icon, .elementor-2019 .elementor-element.elementor-element-077a4de.elementor-view-default .elementor-icon {
+    color: #54595f;
+    border-color: #54595f;
+}
+
+.elementor-2019 .elementor-element.elementor-element-077a4de.elementor-view-framed .elementor-icon {
+    background-color: #ffffff;
+}
+
+.elementor-2019 .elementor-element.elementor-element-077a4de .elementor-icon {
+    font-size: 13px;
+    padding: 6px;
+}
+
+.elementor-2019 .elementor-element.elementor-element-077a4de .elementor-icon i {
+    transform: rotate(0deg);
+}
+
+.elementor-2019 .elementor-element.elementor-element-ec4d950 .elementor-icon-wrapper {
+    text-align: center;
+}
+
+.elementor-2019 .elementor-element.elementor-element-ec4d950.elementor-view-stacked .elementor-icon {
+    background-color: #54595f;
+}
+
+.elementor-2019 .elementor-element.elementor-element-ec4d950.elementor-view-framed .elementor-icon, .elementor-2019 .elementor-element.elementor-element-ec4d950.elementor-view-default .elementor-icon {
+    color: #54595f;
+    border-color: #54595f;
+}
+
+.elementor-2019 .elementor-element.elementor-element-ec4d950 .elementor-icon {
+    font-size: 13px;
+    padding: 6px;
+}
+
+.elementor-2019 .elementor-element.elementor-element-ec4d950 .elementor-icon i {
+    transform: rotate(0deg);
+}
+
+.elementor-2019 .elementor-element.elementor-element-ec4d950 > .elementor-widget-container {
+    margin: 0px 0px 0px -79px;
+}
+
+.elementor-2019 .elementor-element.elementor-element-0ad0d0b > .elementor-element-populated {
+    background-color: #ffffff;
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    margin: 30px 20px 30px 20px;
+}
+
+.elementor-2019 .elementor-element.elementor-element-0ad0d0b > .elementor-element-populated > .elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-2019 .elementor-element.elementor-element-4b235c5.elementor-position-right .elementor-image-box-img {
+    margin-left: 0px;
+}
+
+.elementor-2019 .elementor-element.elementor-element-4b235c5.elementor-position-left .elementor-image-box-img {
+    margin-right: 0px;
+}
+
+.elementor-2019 .elementor-element.elementor-element-4b235c5.elementor-position-top .elementor-image-box-img {
+    margin-bottom: 0px;
+}
+
+.elementor-2019 .elementor-element.elementor-element-4b235c5 .elementor-image-box-wrapper .elementor-image-box-img {
+    width: 65%;
+}
+
+.elementor-2019 .elementor-element.elementor-element-4b235c5 .elementor-image-box-img img {
+    transition-duration: 0.3s;
+}
+
+.elementor-2019 .elementor-element.elementor-element-4b235c5 .elementor-image-box-title {
+    margin-bottom: 10px;
+}
+
+.elementor-2019 .elementor-element.elementor-element-4b235c5 .elementor-image-box-content .elementor-image-box-title {
+    color: #000000;
+    font-family: "Helvetica", Sans-serif;
+    font-size: 18px;
+}
+
+.elementor-2019 .elementor-element.elementor-element-4b235c5 .elementor-image-box-content .elementor-image-box-description {
+    color: #54595f;
+    font-family: "Helvetica", Sans-serif;
+    font-size: 14px;
+}
+
+.elementor-2019 .elementor-element.elementor-element-4b235c5 > .elementor-widget-container {
+    margin: 20px 20px 20px 20px;
+    background-color: #ffffff;
+}
+
+.elementor-2019 .elementor-element.elementor-element-78d8995 {
+    margin-top: -22px;
+    margin-bottom: 6px;
+}
+
+.elementor-2019 .elementor-element.elementor-element-c13a4e1 .elementor-icon-wrapper {
+    text-align: center;
+}
+
+.elementor-2019 .elementor-element.elementor-element-c13a4e1.elementor-view-stacked .elementor-icon {
+    background-color: #54595f;
+}
+
+.elementor-2019 .elementor-element.elementor-element-c13a4e1.elementor-view-framed .elementor-icon, .elementor-2019 .elementor-element.elementor-element-c13a4e1.elementor-view-default .elementor-icon {
+    color: #54595f;
+    border-color: #54595f;
+}
+
+.elementor-2019 .elementor-element.elementor-element-c13a4e1 .elementor-icon {
+    font-size: 13px;
+    padding: 6px;
+}
+
+.elementor-2019 .elementor-element.elementor-element-c13a4e1 .elementor-icon i {
+    transform: rotate(0deg);
+}
+
+.elementor-2019 .elementor-element.elementor-element-c13a4e1 > .elementor-widget-container {
+    margin: 0px 0px 0px 56px;
+}
+
+.elementor-2019 .elementor-element.elementor-element-41a9a85 .elementor-icon-wrapper {
+    text-align: center;
+}
+
+.elementor-2019 .elementor-element.elementor-element-41a9a85.elementor-view-stacked .elementor-icon {
+    background-color: #54595f;
+    color: #ffffff;
+}
+
+.elementor-2019 .elementor-element.elementor-element-41a9a85.elementor-view-framed .elementor-icon, .elementor-2019 .elementor-element.elementor-element-41a9a85.elementor-view-default .elementor-icon {
+    color: #54595f;
+    border-color: #54595f;
+}
+
+.elementor-2019 .elementor-element.elementor-element-41a9a85.elementor-view-framed .elementor-icon {
+    background-color: #ffffff;
+}
+
+.elementor-2019 .elementor-element.elementor-element-41a9a85 .elementor-icon {
+    font-size: 13px;
+    padding: 6px;
+}
+
+.elementor-2019 .elementor-element.elementor-element-41a9a85 .elementor-icon i {
+    transform: rotate(0deg);
+}
+
+.elementor-2019 .elementor-element.elementor-element-e463788 .elementor-icon-wrapper {
+    text-align: center;
+}
+
+.elementor-2019 .elementor-element.elementor-element-e463788.elementor-view-stacked .elementor-icon {
+    background-color: #54595f;
+}
+
+.elementor-2019 .elementor-element.elementor-element-e463788.elementor-view-framed .elementor-icon, .elementor-2019 .elementor-element.elementor-element-e463788.elementor-view-default .elementor-icon {
+    color: #54595f;
+    border-color: #54595f;
+}
+
+.elementor-2019 .elementor-element.elementor-element-e463788 .elementor-icon {
+    font-size: 13px;
+    padding: 6px;
+}
+
+.elementor-2019 .elementor-element.elementor-element-e463788 .elementor-icon i {
+    transform: rotate(0deg);
+}
+
+.elementor-2019 .elementor-element.elementor-element-e463788 > .elementor-widget-container {
+    margin: 0px 0px 0px -79px;
+}
+
+.elementor-2019 .elementor-element.elementor-element-ba7f9d7 > .elementor-element-populated {
+    background-color: #ffffff;
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    margin: 30px 20px 30px 20px;
+}
+
+.elementor-2019 .elementor-element.elementor-element-ba7f9d7 > .elementor-element-populated > .elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-2019 .elementor-element.elementor-element-3ab5a50.elementor-position-right .elementor-image-box-img {
+    margin-left: 0px;
+}
+
+.elementor-2019 .elementor-element.elementor-element-3ab5a50.elementor-position-left .elementor-image-box-img {
+    margin-right: 0px;
+}
+
+.elementor-2019 .elementor-element.elementor-element-3ab5a50.elementor-position-top .elementor-image-box-img {
+    margin-bottom: 0px;
+}
+
+.elementor-2019 .elementor-element.elementor-element-3ab5a50 .elementor-image-box-wrapper .elementor-image-box-img {
+    width: 65%;
+}
+
+.elementor-2019 .elementor-element.elementor-element-3ab5a50 .elementor-image-box-img img {
+    transition-duration: 0.3s;
+}
+
+.elementor-2019 .elementor-element.elementor-element-3ab5a50 .elementor-image-box-title {
+    margin-bottom: 10px;
+}
+
+.elementor-2019 .elementor-element.elementor-element-3ab5a50 .elementor-image-box-content .elementor-image-box-title {
+    color: #000000;
+    font-family: "Helvetica", Sans-serif;
+    font-size: 18px;
+}
+
+.elementor-2019 .elementor-element.elementor-element-3ab5a50 .elementor-image-box-content .elementor-image-box-description {
+    color: #54595f;
+    font-family: "Helvetica", Sans-serif;
+    font-size: 14px;
+}
+
+.elementor-2019 .elementor-element.elementor-element-3ab5a50 > .elementor-widget-container {
+    margin: 20px 20px 20px 20px;
+    background-color: #ffffff;
+}
+
+.elementor-2019 .elementor-element.elementor-element-85b4c9c {
+    margin-top: -22px;
+    margin-bottom: 6px;
+}
+
+.elementor-2019 .elementor-element.elementor-element-cbd1970 .elementor-icon-wrapper {
+    text-align: center;
+}
+
+.elementor-2019 .elementor-element.elementor-element-cbd1970.elementor-view-stacked .elementor-icon {
+    background-color: #54595f;
+}
+
+.elementor-2019 .elementor-element.elementor-element-cbd1970.elementor-view-framed .elementor-icon, .elementor-2019 .elementor-element.elementor-element-cbd1970.elementor-view-default .elementor-icon {
+    color: #54595f;
+    border-color: #54595f;
+}
+
+.elementor-2019 .elementor-element.elementor-element-cbd1970 .elementor-icon {
+    font-size: 13px;
+    padding: 6px;
+}
+
+.elementor-2019 .elementor-element.elementor-element-cbd1970 .elementor-icon i {
+    transform: rotate(0deg);
+}
+
+.elementor-2019 .elementor-element.elementor-element-cbd1970 > .elementor-widget-container {
+    margin: 0px 0px 0px 56px;
+}
+
+.elementor-2019 .elementor-element.elementor-element-51fd46f .elementor-icon-wrapper {
+    text-align: center;
+}
+
+.elementor-2019 .elementor-element.elementor-element-51fd46f.elementor-view-stacked .elementor-icon {
+    background-color: #54595f;
+    color: #ffffff;
+}
+
+.elementor-2019 .elementor-element.elementor-element-51fd46f.elementor-view-framed .elementor-icon, .elementor-2019 .elementor-element.elementor-element-51fd46f.elementor-view-default .elementor-icon {
+    color: #54595f;
+    border-color: #54595f;
+}
+
+.elementor-2019 .elementor-element.elementor-element-51fd46f.elementor-view-framed .elementor-icon {
+    background-color: #ffffff;
+}
+
+.elementor-2019 .elementor-element.elementor-element-51fd46f .elementor-icon {
+    font-size: 13px;
+    padding: 6px;
+}
+
+.elementor-2019 .elementor-element.elementor-element-51fd46f .elementor-icon i {
+    transform: rotate(0deg);
+}
+
+.elementor-2019 .elementor-element.elementor-element-0be081f .elementor-icon-wrapper {
+    text-align: center;
+}
+
+.elementor-2019 .elementor-element.elementor-element-0be081f.elementor-view-stacked .elementor-icon {
+    background-color: #54595f;
+}
+
+.elementor-2019 .elementor-element.elementor-element-0be081f.elementor-view-framed .elementor-icon, .elementor-2019 .elementor-element.elementor-element-0be081f.elementor-view-default .elementor-icon {
+    color: #54595f;
+    border-color: #54595f;
+}
+
+.elementor-2019 .elementor-element.elementor-element-0be081f .elementor-icon {
+    font-size: 13px;
+    padding: 6px;
+}
+
+.elementor-2019 .elementor-element.elementor-element-0be081f .elementor-icon i {
+    transform: rotate(0deg);
+}
+
+.elementor-2019 .elementor-element.elementor-element-0be081f > .elementor-widget-container {
+    margin: 0px 0px 0px -79px;
+}
+
+.elementor-2019 .elementor-element.elementor-element-180e2e7 {
+    background-color: #f3f3f3;
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+}
+
+.elementor-2019 .elementor-element.elementor-element-180e2e7 > .elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-2019 .elementor-element.elementor-element-72c6904 .elementor-spacer-inner {
+    height: 50px;
+}
+
+.elementor-2019 .elementor-element.elementor-element-293d9fb {
+    background-color: #ffffff;
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.elementor-2019 .elementor-element.elementor-element-293d9fb > .elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+@media(max-width: 767px) {
+    .elementor-2019 .elementor-element.elementor-element-c198291 .elementor-icon-box-icon {
+        margin-bottom:0px;
+    }
+
+    .elementor-2019 .elementor-element.elementor-element-ed5b336 .elementor-icon-box-icon {
+        margin-bottom: 0px;
+    }
+
+    .elementor-2019 .elementor-element.elementor-element-818dbb1 .elementor-icon-box-icon {
+        margin-bottom: 0px;
+    }
+
+    .elementor-2019 .elementor-element.elementor-element-37dd3d1 .elementor-icon-box-icon {
+        margin-bottom: 0px;
+    }
+
+    .elementor-2019 .elementor-element.elementor-element-bf62db9 .elementor-image-box-img {
+        margin-bottom: 0px;
+    }
+
+    .elementor-2019 .elementor-element.elementor-element-cc8a2e1 .elementor-image-box-img {
+        margin-bottom: 0px;
+    }
+
+    .elementor-2019 .elementor-element.elementor-element-4b235c5 .elementor-image-box-img {
+        margin-bottom: 0px;
+    }
+
+    .elementor-2019 .elementor-element.elementor-element-3ab5a50 .elementor-image-box-img {
+        margin-bottom: 0px;
+    }
+}
