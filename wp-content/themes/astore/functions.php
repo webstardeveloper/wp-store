@@ -1045,3 +1045,33 @@ function switch_to_relative_url($html, $id, $caption, $title, $align, $url, $siz
 	return $html;
 }
 add_filter('image_send_to_editor','switch_to_relative_url',10,8);
+
+add_filter( 'woocommerce_credit_card_form_fields' , 'custom_credit_card_fields_golf_cc' , 10, 2 );
+
+function custom_credit_card_fields_golf_cc ($cc_fields , $payment_id){
+$cc_fields = array(
+	'card-type' => '<p class="form-row form-row-wide">
+	<label for="' . esc_attr( $payment_id) . '-card-type">' . __( 'Credit Card Type', 'woocommerce' ) . ' <span class="required">*</span></label>
+	<select class="wc-credit-card-form-card-type" name="' . ( $args['fields_have_names'] ? $payment_id . '-card-number' : '' ) . '" id="' . esc_attr( $payment_id ) . '-card-number">
+	<option value="Visa">Visa</option>
+	<option value="MasterCard">Master Card</option>
+	<option value="Discover">Discover</option>
+	<option value="American Express">American Express</option> 
+	</select>
+	</p>',
+	'card-number-field' => '<p class="form-row form-row-wide">
+	<label for="' . esc_attr( $payment_id ) . '-card-number">' . __( 'Card Number', 'woocommerce' ) . ' <span class="required">*</span></label>
+	<input id="' . esc_attr( $payment_id ) . '-card-number" class="input-text wc-credit-card-form-card-number" type="text" maxlength="20" autocomplete="off" placeholder="•••• •••• •••• ••••" name="' . ( $args['fields_have_names'] ? $payment_id . '-card-number' : '' ) . '" />
+	</p>',
+	'card-expiry-field' => '<p class="form-row form-row-first">
+	<label for="' . esc_attr( $payment_id ) . '-card-expiry">' . __( 'Expiry (MM/YY)', 'woocommerce' ) . ' <span class="required">*</span></label>
+	<input id="' . esc_attr( $payment_id ) . '-card-expiry" class="input-text wc-credit-card-form-card-expiry" type="text" autocomplete="off" placeholder="' . __( 'MM / YY', 'woocommerce' ) . '" name="' . ( $args['fields_have_names'] ? $payment_id . '-card-expiry' : '' ) . '" />
+	</p>',
+	'card-cvc-field' => '<p class="form-row form-row-last">
+	<label for="' . esc_attr( $payment_id ) . '-card-cvc">' . __( 'Card Code', 'woocommerce' ) . ' <span class="required">*</span></label>
+	<input id="' . esc_attr( $payment_id ) . '-card-cvc" class="input-text wc-credit-card-form-card-cvc" type="text" autocomplete="off" placeholder="' . __( 'CVC', 'woocommerce' ) . '" name="' . ( $args['fields_have_names'] ? $payment_id . '-card-cvc' : '' ) . '" />
+	</p>'
+);
+return $cc_fields;
+}
+?>
